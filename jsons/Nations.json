@@ -19,7 +19,7 @@
 		"innerColor": [0, 0, 0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Universal Monarchy",
-		"uniques": ["When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [67]% chance>",
+		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your ally for [5] turns.",
 			"[-25]% maintenance costs <for [Land] units>"],
 		"cities": ["Nuremberg","Aachen","Prague","Vienna","Augsburg","Mainz","Ulm","Luxemburg","Strassburg","Lubeck",
 			"Brandenburg","Heidelberg","Trier","Regensburg","Magdeburg","Worms","Constance","Salzburg","Innsbruck","Stettin",
