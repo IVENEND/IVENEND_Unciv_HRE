@@ -1,38 +1,32 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
-		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
-		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
-		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"name": "Holy Roman Empire",
+		"leaderName": "Karl V",
+		"adjective": ["Holy Roman"],
+		"preferredVictoryType": "Domination",
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+        "startIntroPart1": "",
+        "startIntroPart2": "",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
+        "declaringWar": "I cannot wait until ye grow even mightier. Therefore, prepare for war!",
+		"attacked": "I will not relish this coming war, but I will win it.",
+		"defeated": "Alas, I must submit to your triumph over me, and bid you congratulations, farewell, and the burden of my imperial throne.",
+		"introduction": "Ah, welcome. I didn't see you there at first. I am Charles V, Holy Roman Emperor and King of the Romans, King of Spain, Italy, Germany, Hungary, Archduke of Austria, Lord of the Netherlands, Count Palatine of Burgundy, and... well, you get the idea. Oh, and King of Naples, too.",
+		"neutralHello": "Speak your matter.",
+		"hateHello": "Your presence is a foul thing.",
+		"tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
+		"outerColor": [189, 159, 52],
+		"innerColor": [0, 0, 0],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Universal Monarchy",
+		"uniques": ["When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [67]% chance>",
+			"[-25]% maintenance costs <for [Land] units>"],
+		"cities": ["Nuremberg","Aachen","Prague","Vienna","Augsburg","Mainz","Ulm","Luxemburg","Strassburg","Lubeck",
+			"Brandenburg","Heidelberg","Trier","Regensburg","Magdeburg","Worms","Constance","Salzburg","Innsbruck","Stettin",
+			"Kolberg","Breslau","Bamberg","Mannheim","Goslar","Spires","Paderborn","Passau","Hagenau","Hagen",
+			"Erfurt","Kaiserslautern","Kassel","Oberhausen","Hamm","Saarbrücken","Krefeld","Pirmasens","Potsdam","Solingen",
+			"Osnabrück","Ludwigshafen","Leverkusen","Oldenburg","Neuss","Mülheim","Darmstadt","Herne","Würzburg",
+			"Recklinghausen","Göttingen","Wolfsburg","Koblenz","Hildesheim","Erlangen"],
+        "spyNames": ["Otto", "Henry", "Francis", "Conrad", "Louis", "Gregory", "Frederick", "William", "Rudolf", "Richard"]
+    }
 ]
