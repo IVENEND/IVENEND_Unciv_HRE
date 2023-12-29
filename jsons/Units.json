@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Doppelsoeldner",
+		"name": "Schlachtschwertier",
 		"unitType": "Sword",
 		"replaces": "Longswordsman",
 		"uniqueTo": "Holy Roman Empire",
@@ -8,10 +8,25 @@
 		"strength": 21,
 		"cost": 120,
 		"requiredTech": "Steel",
-		"uniques": ["[+50]% Strength <vs [Sword] units>", "Can move immediately once bought" ],
+		"uniques": ["[+50]% Strength <vs [Sword] units>", "[+20]% Strength bonus for [{Holy Roman Empire} {Pikeman}] units within [1] tiles" ],
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Reichsritter",
+		"unitType": "Mounted",
+		"replaces": "Knight",
+		"uniqueTo": "Holy Roman Empire",
+		"movement": 4,
+		"strength": 20,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"uniques": ["[-100]% maintenance costs","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
 	}
 ]
