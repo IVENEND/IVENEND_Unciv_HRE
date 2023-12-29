@@ -15,18 +15,20 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Reichsritter",
+		"name": "Schwarze Reiter",
 		"unitType": "Mounted",
 		"replaces": "Knight",
 		"uniqueTo": "Holy Roman Empire",
+		"range": 1,
 		"movement": 4,
 		"strength": 20,
+		"rangedStrength": 20,
 		"cost": 120,
 		"requiredTech": "Chivalry",
 		"obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
 		"requiredResource": "Horses",
-		"uniques": ["[-100]% maintenance costs","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-66]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
 	}
 ]

@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Holy Roman Empire",
-		"leaderName": "Karl V",
+		"leaderName": "Ferdinand I",
 		"adjective": ["Holy Roman"],
 		"preferredVictoryType": "Domination",
 
@@ -11,22 +11,22 @@
         "declaringWar": "I cannot wait until ye grow even mightier. Therefore, prepare for war!",
 		"attacked": "I will not relish this coming war, but I will win it.",
 		"defeated": "Alas, I must submit to your triumph over me, and bid you congratulations, farewell, and the burden of my imperial throne.",
-		"introduction": "Ah, welcome. I didn't see you there at first. I am Charles V, Holy Roman Emperor and King of the Romans, King of Spain, Italy, Germany, Hungary, Archduke of Austria, Lord of the Netherlands, Count Palatine of Burgundy, and... well, you get the idea. Oh, and King of Naples, too.",
+		"introduction": "Ah, welcome. I didn't see you there at first. I am Ferdinand I, Holy Roman Emperor and King in Germany, King of Hungary, Bohemia, Dalmatia, Croatia, Archduke of Austria, Duke of Burgundy, Margrave of Moravia, and... well, you get the idea. Oh, and King of Slavonia, too.",
 		"neutralHello": "Speak your matter.",
 		"hateHello": "Your presence is a foul thing.",
 		"tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
 		"outerColor": [189, 159, 52],
 		"innerColor": [0, 0, 0],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Universal Monarchy",
-		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your ally for [5] turns.",
-			"[-25]% maintenance costs <for [Land] units>"],
+		"uniqueName": "Imperial Circles",
+		"uniques": ["[-20]% maintenance cost for buildings [in all cities]",
+			"[Gold] cost of purchasing [Melee] units [-20]%"],
 		"cities": ["Nuremberg","Aachen","Prague","Vienna","Augsburg","Mainz","Ulm","Luxemburg","Strassburg","Lubeck",
 			"Brandenburg","Heidelberg","Trier","Regensburg","Magdeburg","Worms","Constance","Salzburg","Innsbruck","Stettin",
 			"Kolberg","Breslau","Bamberg","Mannheim","Goslar","Spires","Paderborn","Passau","Hagen",
 			"Erfurt","Kaiserslautern","Kassel","Oberhausen","Hamm","Saarbrücken","Krefeld","Pirmasens","Potsdam","Solingen",
 			"Osnabrück","Ludwigshafen","Leverkusen","Oldenburg","Neuss","Mülheim","Darmstadt","Herne","Würzburg",
 			"Recklinghausen","Göttingen","Wolfsburg","Koblenz","Hildesheim","Erlangen"],
-        "spyNames": ["Otto", "Henry", "Francis", "Conrad", "Louis", "Gregory", "Frederick", "William", "Rudolf", "Richard"]
+        "spyNames": ["Otto", "Heinrich", "Johann", "Konrad", "Ludwig", "Gregory", "Albrecht", "Wilhelm", "Rudolf", "Marlene"]
     }
 ]
