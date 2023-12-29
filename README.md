@@ -1,4 +1,4 @@
-# Ivenend's Holy Roman Empire mod for Unciv
+# Holy Roman Empire (Ferdinand I) mod for Unciv
 
 A mod for UnCiv that adds the Holy Roman Empire civ.
 * Supported Tilesets: HexaRealm (non-AbsoluteUnits), FantasyHex
