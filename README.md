@@ -1,4 +1,4 @@
-# Unciv-mod-example
+# Ivenend's Holy Roman Empire mod for Unciv
 
 An example mod for Unciv, that adds one new Civilization.
 
