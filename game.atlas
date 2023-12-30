@@ -20,14 +20,14 @@ TileSets/FantasyHex/Units/Reichsritter
   index: -1
 TileSets/FantasyHex/Units/Schlachtschwertier
   rotate: false
-  xy: 796, 76
+  xy: 868, 76
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Schwarze Reiter
   rotate: false
-  xy: 796, 40
+  xy: 868, 40
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -53,16 +53,23 @@ TileSets/HexaRealm/Units/Schlachtschwertier
   orig: 64, 60
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Units/Schlachtschwertier2
+  rotate: false
+  xy: 652, 44
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Units/Schwarze Reiter
   rotate: false
-  xy: 652, 40
+  xy: 724, 40
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Schwarze Reiter2
   rotate: false
-  xy: 724, 40
+  xy: 796, 40
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
