@@ -8,7 +8,7 @@
 		"strength": 21,
 		"cost": 120,
 		"requiredTech": "Steel",
-		"uniques": ["[+50]% Strength <vs [Sword] units>", "[+20]% Strength bonus for [{Holy Roman Empire} {Pikeman}] units within [1] tiles" ],
+		"uniques": ["[+50]% Strength <vs [Sword] units>", "[+20]% Strength bonus for [{Holy Roman Empire} {Pikeman}] units within [1] tiles", "[+20]% Strength bonus for [{Holy Roman Empire} {Landsknecht}] units within [1] tiles" ],
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
 		"requiredResource": "Iron",
