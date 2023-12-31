@@ -16,7 +16,7 @@
 		"hateHello": "Your presence is a foul thing.",
 		"tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
 		"outerColor": [189, 159, 52],
-		"innerColor": [0, 0, 0],
+		"innerColor": [30, 30, 30],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Imperial Circles",
 		"uniques": ["[-20]% maintenance cost for buildings [in all cities]",
