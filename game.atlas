@@ -13,63 +13,63 @@ NationIcons/Holy Roman Empire
   index: -1
 TileSets/FantasyHex/Units/Reichsritter
   rotate: false
-  xy: 436, 12
+  xy: 436, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Schlachtschwertier
   rotate: false
-  xy: 868, 76
+  xy: 890, 76
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Schwarze Reiter
   rotate: false
-  xy: 868, 40
+  xy: 476, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Reichsarmee
   rotate: false
-  xy: 436, 48
+  xy: 602, 48
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Reichsritter
   rotate: false
-  xy: 508, 38
+  xy: 674, 38
   size: 64, 66
   orig: 64, 66
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Schlachtschwertier
   rotate: false
-  xy: 580, 44
-  size: 64, 60
-  orig: 64, 60
+  xy: 436, 44
+  size: 75, 60
+  orig: 75, 60
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Schlachtschwertier2
   rotate: false
-  xy: 652, 44
+  xy: 746, 44
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Schwarze Reiter
   rotate: false
-  xy: 724, 40
-  size: 64, 64
-  orig: 64, 64
+  xy: 519, 40
+  size: 75, 64
+  orig: 75, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Schwarze Reiter2
   rotate: false
-  xy: 796, 40
+  xy: 818, 40
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
