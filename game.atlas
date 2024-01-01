@@ -1,96 +1,96 @@
 
 game.png
-size: 1024, 128
+size: 512, 512
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/Holy Roman Empire
   rotate: false
-  xy: 4, 4
+  xy: 268, 408
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Reichsritter
   rotate: false
-  xy: 436, 12
+  xy: 376, 240
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Schlachtschwertier
   rotate: false
-  xy: 868, 76
+  xy: 268, 10
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Schwarze Reiter
   rotate: false
-  xy: 868, 40
+  xy: 376, 204
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Reichsarmee
   rotate: false
-  xy: 436, 48
+  xy: 376, 344
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Reichsritter
   rotate: false
-  xy: 508, 38
+  xy: 268, 118
   size: 64, 66
   orig: 64, 66
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Schlachtschwertier
   rotate: false
-  xy: 580, 44
-  size: 64, 60
-  orig: 64, 60
+  xy: 4, 268
+  size: 256, 240
+  orig: 256, 240
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Schlachtschwertier2
   rotate: false
-  xy: 652, 44
+  xy: 376, 276
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Schwarze Reiter
   rotate: false
-  xy: 724, 40
-  size: 64, 64
-  orig: 64, 64
+  xy: 4, 4
+  size: 256, 256
+  orig: 256, 256
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Schwarze Reiter2
   rotate: false
-  xy: 796, 40
+  xy: 268, 46
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 UnitIcons/Reichsritter
   rotate: false
-  xy: 112, 4
+  xy: 268, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Schlachtschwertier
   rotate: false
-  xy: 220, 4
+  xy: 376, 408
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Schwarze Reiter
   rotate: false
-  xy: 328, 4
+  xy: 268, 192
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
