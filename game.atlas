@@ -1,97 +1,69 @@
 
 game.png
-size: 512, 512
+size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-NationIcons/Holy Roman Empire
-  rotate: false
-  xy: 268, 408
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 TileSets/FantasyHex/Units/Reichsritter
   rotate: false
-  xy: 376, 240
+  xy: 4, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Schlachtschwertier
   rotate: false
-  xy: 268, 10
+  xy: 436, 68
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Schwarze Reiter
   rotate: false
-  xy: 376, 204
+  xy: 476, 68
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Reichsarmee
   rotate: false
-  xy: 376, 344
+  xy: 4, 40
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Reichsritter
   rotate: false
-  xy: 268, 118
+  xy: 76, 30
   size: 64, 66
   orig: 64, 66
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Schlachtschwertier
   rotate: false
-  xy: 4, 268
-  size: 256, 240
-  orig: 256, 240
+  xy: 148, 36
+  size: 64, 60
+  orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Schlachtschwertier2
   rotate: false
-  xy: 376, 276
+  xy: 220, 36
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Schwarze Reiter
   rotate: false
-  xy: 4, 4
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Units/Schwarze Reiter2
-  rotate: false
-  xy: 268, 46
+  xy: 292, 32
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-UnitIcons/Reichsritter
+TileSets/HexaRealm/Units/Schwarze Reiter2
   rotate: false
-  xy: 268, 300
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Schlachtschwertier
-  rotate: false
-  xy: 376, 408
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Schwarze Reiter
-  rotate: false
-  xy: 268, 192
-  size: 100, 100
-  orig: 100, 100
+  xy: 364, 32
+  size: 64, 64
+  orig: 64, 64
   offset: 0, 0
   index: -1
