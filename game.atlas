@@ -1,75 +1,75 @@
 
 game.png
-size: 256, 256
+size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/FantasyHex/Units/Reichsritter
   rotate: false
-  xy: 4, 4
+  xy: 4, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Schlachtschwertier
   rotate: false
-  xy: 148, 138
+  xy: 148, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Schwarze Reiter
   rotate: false
-  xy: 148, 102
+  xy: 188, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Reichsarmee
   rotate: false
-  xy: 4, 114
+  xy: 4, 44
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Reichsritter
   rotate: false
-  xy: 4, 40
+  xy: 76, 34
   size: 64, 66
   orig: 64, 66
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Schlachtschwertier
   rotate: false
-  xy: 4, 178
-  size: 75, 60
-  orig: 75, 60
+  xy: 148, 40
+  size: 64, 60
+  orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Schlachtschwertier2
   rotate: false
-  xy: 87, 178
+  xy: 220, 40
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Schlachtschwertier_OLD
   rotate: false
-  xy: 76, 110
+  xy: 292, 40
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Schwarze Reiter
   rotate: false
-  xy: 76, 38
+  xy: 364, 36
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Schwarze Reiter2
   rotate: false
-  xy: 159, 174
+  xy: 436, 36
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
