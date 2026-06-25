@@ -3,6 +3,7 @@
 		"name": "Holy Roman Empire",
 		"leaderName": "Ferdinand I",
 		"adjective": ["Holy Roman"],
+        "startBias": ["Avoid [Coast]", "Plains"],
 		"preferredVictoryType": "Domination",
 
         "startIntroPart1": "",
